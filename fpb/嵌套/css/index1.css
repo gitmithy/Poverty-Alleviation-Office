@@ -122,7 +122,7 @@ a{text-decoration:none;list-style:none;list-style-type:none}
 .con{width: 1100px; height: 770px; margin: 0 auto;}
 .con-lft{width: 360px; height: 765px; float: left;}
 .con-lft1{width: 360px; height: 350px;}
-.con-lft1-con{border: 1px solid #EAEAEA;}
+.con-lft1-con{border: 1px solid #EAEAEA; width: 358px;}
 .con-lft1-nav{width: 360px; height: 39px; background-image: url(../img/nav4.jpg); background-repeat: no-repeat;}
 .con-lft1-nav li{ font-size: 16px; color:#990000 ; line-height: 38px; padding-left: 33px; padding-right: 33px;}
 .con-lft1-nav span{font-size: 12px; line-height: 38px; padding-right: 5px;}

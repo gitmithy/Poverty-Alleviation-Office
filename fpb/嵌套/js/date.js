@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-	</head>
-	<body>
-		
-<script type="text/javascript">
-	
     var CalendarData = new Array(100);
     var madd = new Array(12);
     var tgString = "甲乙丙丁戊己庚辛壬癸";
@@ -110,8 +100,5 @@
     }
     $(document).ready(function () {
         var d = GetCNDate();
-        alert(d);
+        alert(d)
     });
-</script>
-	</body>
-</html>
